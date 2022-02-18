@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Jacob Munson-McGee"
 title_separator          : "-"
 name                     : &name "Jacob Munson-McGee"
-description              : &description "personal description"
+description              : &description "I am a microbiologist specializing in microbial ecology and the impacts of viruses on individual cells."
 url                      : https://jmunsonm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jmunsonm.github.io"
+repository               : "jmunsonm/jmunsonm.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
