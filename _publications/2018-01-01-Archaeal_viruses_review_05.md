@@ -9,5 +9,5 @@ paperurl: 'https://www.mdpi.com/2073-4425/9/3/128'
 citation: '1. Munson-McGee, J., Snyder, J. & Young, M. Archaeal Viruses from High-Temperature Environments. Genes (Basel). 9, 128 (2018) doi:10.3390/genes9030128.'
 ---
 
-[Download paper here](https:\\jmunsonm.github.io/files/Munson-McGee, Snyder, Young - 2018 - Archaeal viruses from high-temperature environments.pdf)
+[Download paper here](https://github.com/jmunsonm/jmunsonm.github.io/blob/984f36c968987a87a7354198793c42a91beba2eb/files/Munson-McGee,%20Snyder,%20Young%20-%202018%20-%20Archaeal%20viruses%20from%20high-temperature%20environments.pdf)
 
