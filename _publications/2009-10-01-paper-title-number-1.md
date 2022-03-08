@@ -6,7 +6,7 @@ Abstract: 'Nanoarchaeota are obligate symbionts with reduced genomes first descr
 
 venue: 'Applied and Environmental Microbiology'
 paperurl: 'https://journals.asm.org/doi/10.1128/AEM.01539-15'
-citation: '1. Munson-McGee, J. H. et al. Nanoarchaeota, Their Sulfolobales Host, and Nanoarchaeota Virus Distribution across Yellowstone National Park Hot Springs. Appl. Environ. Microbiol. 81, 7860–7868 (2015) doi:10.1128/AEM.01539-15.'
+citation: 'Munson-McGee, J. H. et al. Nanoarchaeota, Their Sulfolobales Host, and Nanoarchaeota Virus Distribution across Yellowstone National Park Hot Springs. Appl. Environ. Microbiol. 81, 7860–7868 (2015) doi:10.1128/AEM.01539-15.'
 ---
 
 [Download paper here](http://academicpages.github.io/files/Munson-McGee et al. - 2015 - Nanoarchaeota, its Sulfolobales host, and Nanoarchaeota virus distribution across Yellowstone National Park.pdf)
